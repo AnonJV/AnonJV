@@ -12,8 +12,8 @@
 
 
 <p align="center">
-  Entusiasta da tecnologia e da computaçao, apaixonado por desafios e sempre em busca de conhecimento. Focado em <i>cybersecurity</i>, tenho como objetivo expandir meus horizontes e 
-  abosrver todo o conhecimento possível no vasto campo da computação 👨🏾‍💻. 
+  Entusiasta da tecnologia e computação, apaixonado por desafios e sempre em busca de conhecimento. Focado em <i>cybersecurity</i>, tenho como objetivo expandir meus horizontes e 
+  absorver todo o conhecimento possível no vasto campo da computação 👨🏾‍💻. 
   <br/>
   Atualmente, encontro-me matriculado no curso de ensino médio integrado ao tecnólogo em informática no Instituto Federal de Capivari, localizado em São Paulo. Sou desenvolvedor     
   Fullstack 
