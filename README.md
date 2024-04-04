@@ -67,7 +67,7 @@
 </br>
 </br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31u6f7qhd5jazhdnnkd7dsmyzazm&count=3&width=500)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31u6f7qhd5jazhdnnkd7dsmyzazm&count=3&width=500)
 
 </div>
 
