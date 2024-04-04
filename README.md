@@ -73,6 +73,8 @@
 
 <p align="center">
 <a href="mailto:jeanvieira228@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="" height="48" width="48"/></a>
-<a href="https://www.instagram.com/jv_camarg?igsh=MXJ1Y2hqcGV2c2hrdg==" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="" height="48" width="48" /></a>
-<a href="wa.me/5519987315863" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="" height="48" width="48"/></a>
+<a href="https://www.instagram.com/jv_camarg/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="" height="48" width="48" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5519987315863&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/whatsapp.png" alt="" height="48" width="48"/></a>
 </p>
+
+<!-- https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif -->
