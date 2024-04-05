@@ -19,7 +19,7 @@
   Fullstack 
   e Hacker. 
   <br/>
-  Meus traços marcantes, sendo o principal a persistência, são a lealdade, determinação e dedicação. Nunca desisto dos meus objetivos e metas, e tão pouco deixo algo para depois, afinal 
+  Meus traços marcantes, sendo a principal a persistência, são a lealdade, determinação e dedicação. Nunca desisto dos meus objetivos e metas, e tão pouco deixo algo para depois, afinal 
   a preguiça é empecilho do sucesso. 
 </p>
 <br/>
