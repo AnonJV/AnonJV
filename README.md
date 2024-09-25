@@ -69,6 +69,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31u6f7qhd5jazhdnnkd7dsmyzazm&width=500&count=3)
 
+<!-- ![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg) -->
+
 </div>
 
 <p align="center">
